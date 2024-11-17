@@ -1,4 +1,6 @@
-​                                                
+​                                 
+
+​               
 
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:1a1522,100:1a1621&animation=fadeIn&height=100&text= Hi There!&fontColor=d6ace6&fontSize=40&fontAlignY=35&fontAlign=80&rotate=6.5"/>
 
