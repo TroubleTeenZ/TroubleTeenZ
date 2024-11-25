@@ -4,9 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&width=800&height=100&size=40&color=90adde&duration=4000&lines=I%27m%20TroubleTeenZ;Welcome%20to%20my%20HomePage)
 
-
-
-##  主要技术栈
+## 主要技术栈
 
 ### 前端
 
